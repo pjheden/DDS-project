@@ -33,8 +33,10 @@ As of now the game is built for Xbox controllers, but have been seen working wit
 
 Dennis Lioubartsev | Tor Sundman
 ------------ | -------------
+email@email | email@email
 ![Image of Dennis](https://pjheden.github.io/DDS-project/images/dennis.jpg) | ![Image of Tor](https://pjheden.github.io/DDS-project/images/tor.jpg)
 
 Julian Hedén | Tim Wayburn
 ------------ | -------------
+pjheden@kth.se | email@email
 ![Image of Julian](https://pjheden.github.io/DDS-project/images/julian.jpg) | ![Image of Tim](https://pjheden.github.io/DDS-project/images/tim.jpg)
