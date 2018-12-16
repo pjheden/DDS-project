@@ -1,3 +1,10 @@
+## Team
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+![Image of Yaktocat](https://media.licdn.com/dms/image/C5603AQHEiKMZuLjoug/profile-displayphoto-shrink_200_200/0?e=1550707200&v=beta&t=heCE86k7tzYa1902ENH2lb8U2_HxIJNhUZtk2agSbag) | Content in the second column
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pjheden/DDS-project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
