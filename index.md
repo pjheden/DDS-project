@@ -22,8 +22,8 @@ Click the image above to see a gameplay video of the game!
 Click the image above to go to the GitHub repository where you can download and try the game yourself.
 
 ### Documents
-Specifics of the idea of the game and it's features are specified in the GDD. ** Link to GDD **
-** Link to blogs? **
+Specifics of the idea of the game and it's features are specified in the GDD. 
+** Link to GDD **
 
 ### Support
 
