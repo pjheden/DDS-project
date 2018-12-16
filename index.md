@@ -18,6 +18,7 @@ Click the image above to see a gameplay video of the game!
 
 ### Demo
 [![Image of Game](https://pjheden.github.io/DDS-project/images/menuscene.png)](https://github.com/pjheden/DDS_gitversion)
+
 Click the image above to go to the GitHub repository where you can download and try the game yourself.
 
 ### Documents
