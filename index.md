@@ -1,5 +1,5 @@
 ## Danish Driving Simulator
-![Image of Game](https://pjheden.github.io/DDS-project/images/fireball.jpg)
+![Image of Game](https://pjheden.github.io/DDS-project/images/fireball.png)
 A local multiplayer party game. A PC game played with controllers, where you control a car and the goal is to bump each other out of the map. The means of doing so are varied, with everything from simple collision to using weapons of mass destructions.
 
 ### Features
@@ -15,7 +15,7 @@ A local multiplayer party game. A PC game played with controllers, where you con
 THIS IS A VIDEO OF THE GAME
 
 ### Demo
-![Image of Game](https://pjheden.github.io/DDS-project/images/menuscene.jpg)
+![Image of Game](https://pjheden.github.io/DDS-project/images/menuscene.png)
 #### Try it out yourself!
 Here is a link to the repo.
 Any install instructions here
