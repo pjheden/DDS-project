@@ -2,7 +2,7 @@
 
 Dennis Lioubartsev | Tor Sundman | Julian Hedén | Tim Wayburn
 ------------ | -------------|------------ | -------------
-![Image of Dennis](https://github.com/pjheden/DDS-project/images/dennis.jpg) | ![Image of Tor](https://github.com/pjheden/DDS-project/images/tor.jpg) ![Image of Julian](https://github.com/pjheden/DDS-project/images/julian.jpg) | ![Image of Tim](https://github.com/pjheden/DDS-project/images/tim.jpg)
+![Image of Dennis](https://github.com/pjheden/DDS-project/images/dennis.jpg) | ![Image of Tor](https://github.com/pjheden/DDS-project/images/tor.jpg) | ![Image of Julian](https://github.com/pjheden/DDS-project/images/julian.jpg) | ![Image of Tim](https://github.com/pjheden/DDS-project/images/tim.jpg)
 
 ## Welcome to GitHub Pages
 
