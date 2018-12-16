@@ -23,7 +23,7 @@ Click the image above to go to the GitHub repository where you can download and 
 
 ### Documents
 Specifics of the idea of the game and it's features are specified in the GDD. 
-** Link to GDD **
+[GDD(https://pjheden.github.io/DDS-project/images/gdd.pdf)]
 
 ### Support
 
