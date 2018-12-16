@@ -1,43 +1,29 @@
-## Team
+## Danish Driving Simulator
+A local multiplayer party game. A PC game played with controllers, where you control a car and the goal is to bump each other out of the map. The means of doing so are varied, with everything from simple collision to using weapons of mass destructions.
+
+### Features
+- Supports 1-4 players
+- Round system
+- Upgrade your car inbetween rounds
+- Scoreboard to keep track of who is in the lead
+- Collision physics
+- Weapons of all sorts
+
+### Gameplay
+THIS IS A VIDEO OF THE GAME
+
+### Demo
+#### Try it out yourself!
+Here is a link to the repo.
+Any insttructions here
+
+
+### Support
+
+As of now the game is built for Xbox controllers, but have been seen working with Xbox, PS3, Steam and even Guitar Hero controllers.
+
+### Team
 
 Dennis Lioubartsev | Tor Sundman | Julian Hedén | Tim Wayburn
 ------------ | -------------|------------ | -------------
-![Image of Dennis](https://github.com/pjheden/DDS-project/images/dennis.jpg) | ![Image of Tor](https://github.com/pjheden/DDS-project/images/tor.jpg) | ![Image of Julian](https://github.com/pjheden/DDS-project/images/julian.jpg) | ![Image of Tim](https://github.com/pjheden/DDS-project/images/tim.jpg)
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pjheden/DDS-project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pjheden/DDS-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image of Dennis](https://pjheden.github.io/DDS-project/images/dennis.jpg) | ![Image of Tor](https://pjheden.github.io/DDS-project/images/tor.jpg) | ![Image of Julian](https://pjheden.github.io/DDS-project/images/julian.jpg) | ![Image of Tim](https://pjheden.github.io/DDS-project/images/tim.jpg)
