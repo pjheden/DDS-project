@@ -1,9 +1,8 @@
 ## Team
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-![Image of Yaktocat](https://media.licdn.com/dms/image/C5603AQHEiKMZuLjoug/profile-displayphoto-shrink_200_200/0?e=1550707200&v=beta&t=heCE86k7tzYa1902ENH2lb8U2_HxIJNhUZtk2agSbag) | Content in the second column
+Dennis Lioubartsev | Tor Sundman | Julian Hedén | Tim Wayburn
+------------ | -------------|------------ | -------------
+![Image of Dennis](https://github.com/pjheden/DDS-project/images/dennis.jpg) | ![Image of Tor](https://github.com/pjheden/DDS-project/images/tor.jpg) ![Image of Julian](https://github.com/pjheden/DDS-project/images/julian.jpg) | ![Image of Tim](https://github.com/pjheden/DDS-project/images/tim.jpg)
 
 ## Welcome to GitHub Pages
 
